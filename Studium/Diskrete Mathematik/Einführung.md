@@ -1,0 +1,5 @@
+- Taschenrechner (nachschauen welche legal sind)
+- immer brav lernen
+- Mathe ist kein Spaß
+- Pipi forbidden (poopoo erst recht nicht)
+- elektronisch auf der HWR Seite online Buch Lothar Papula - Mathematik für Ingenieure 1-2. Springer Vieweg.
