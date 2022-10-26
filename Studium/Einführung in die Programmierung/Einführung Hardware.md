@@ -40,4 +40,15 @@
 - Daten (initialisiert -> Variablen wie in i=0;)
 - Daten (nicht initialisiert) -> Variablen wie in data\[1000\];
 - Stack -> Variablen innerhalb von Funktionen
--  Heap -> für malloc oder neuen angeforderten Speicher
+- Heap -> für malloc oder neuen angeforderten Speicher
+
+# Datenabstraktionen, Datentypen, Objecktorientierte Programmierung
+- Spezielle Daten, auf die nur mit bestimmten Operationen zugegriffen werden können
+- Mit Modula (Nachfolger von Pascal) wurden abstrakte Datentypen als Konzep eingeführt
+- Stack: Push, Pop, Top
+- Warteschlagen (Queue): Einfügen, Nächster
+- Pascal basierte Strukturen (Records)
+
+# Daten in Programmen
+- Bezeichner
+- Literale
