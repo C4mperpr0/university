@@ -1,4 +1,4 @@
-## Elektromechanische Gattermodelle
+g:ycm_enable_inlay_hints## Elektromechanische Gattermodelle
 - Gattermodelle als Block Box, Transistormodell, TTL, CMOS
 - elektromagnetische Relais
 - Netz aus Relais, die gleichberechtigt schalten und durch externe Sensoren steuerbar sind.
