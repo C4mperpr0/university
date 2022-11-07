@@ -1,4 +1,4 @@
-#Mengen #Mathe #Mathematik #Algebra #Vektor #Tupel #Betrag #Kartesiches
+#Mengen #Mathe #Mathematik #Algebra #Vektor #Tupel #Betrag #Kartesiches #Spatprodukt
 
 ## Definition
 Unter einer Menge verstehen wir die Zusammenfassung gewosser, wohl unterscheidbarer Objekte zu einer Einheit
@@ -51,17 +51,25 @@ A³ := {(0,0,0), (0,0,1), (0,1,0), (0,1,1), (1,0,0), (1,0,1), (1,1,0), (1,1,1)}
 - Vektoren müssen für die Addition die gleiche Anzahl an Komponenten haben ({a,b} + {c} ist nicht definiert)
 - EInheitsvektoren (5, 10, 3.25) = 5(1,0,0) + 10(0,1,0) + 3.25(0,0,1)
 
+### Spatprodukt
+Das Spatprodukt wird aus drei Vektoren (~x, ~y, ~z ∈ R3) gebildet  
+und ist eine Kombination aus Skalarprodukt und Vektorprodukt:
+$[\vec{x}, \vec{y}, \vec{z}]$ := $\vec{x}$ · ($\vec{y}$ × $\vec{z}$)
+
+## Übungen
+$\vec{a}$={1,3,2} $\vec{b}$={-3,1,0} $\vec{c}$={1,0,0}
+
+![[vektoruebungen091122.excalidraw]]
 
 
+## Hessische Normalform
+
+1. a) Normalengleichung $\vec{n}\vec{x}=d$
+2. b) Hessische Normalenform $\vec{n}_{e}\vec{x}=d_{e}$ mit $|\vec{n}_{e}|=1$
+3. a) klassische Koordinatengleichung $x_{2}=m\vec{x}+b$
+3. (nochmal 3.?) b) **allgemeine Koordinatengleichung** Durch Auflösen der beiden Gleichungen der Punkt-Richtungsform (5.9)
+	![[Drawing 2022-11-02 10.56.30.excalidraw]]
 
 
-
-
-
-
-
-
-
-
-
-
+## Abstand zweier paralleler Geraden (PDF: 5.2.3)
+![[abstandzweierparallelergeraden_uebung.excalidraw]]
