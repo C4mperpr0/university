@@ -1,0 +1,7 @@
+.header ON
+.mode column
+.prompt "\nSQL >> " ";;;>"
+.print "Datenbank\n---------"
+.da
+.print "Tabellen\n--------"
+.ta
