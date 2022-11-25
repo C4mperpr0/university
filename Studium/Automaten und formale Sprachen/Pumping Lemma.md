@@ -1,0 +1,2 @@
+
+Wenn ein L eine reguläre Sprache ist, dann gibt es eine ganze Zahl n >= 1 so dass jedes Wort x der Sprache mit |x|>= n zerlegt werden kann in die Wort (u,v,w E E*), so dass alle wörter die durch Weglassen oder Wiederholen des mittleren Teils ebenfalls zur Sprache gehören.

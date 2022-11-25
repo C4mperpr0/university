@@ -68,7 +68,7 @@ $\vec{a}$={1,3,2} $\vec{b}$={-3,1,0} $\vec{c}$={1,0,0}
 2. b) Hessische Normalenform $\vec{n}_{e}\vec{x}=d_{e}$ mit $|\vec{n}_{e}|=1$
 3. a) klassische Koordinatengleichung $x_{2}=m\vec{x}+b$
 3. (nochmal 3.?) b) **allgemeine Koordinatengleichung** Durch Auflösen der beiden Gleichungen der Punkt-Richtungsform (5.9)
-	![[Drawing 2022-11-02 10.56.30.excalidraw]]
+	![[koordinatengleichung.excalidraw]]
 
 
 ## Abstand zweier paralleler Geraden (PDF: 5.2.3)
